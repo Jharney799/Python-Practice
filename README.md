@@ -1,1 +1,1 @@
-A spot for practicing and learning Python
+Repo dedicated to learning from "Automate The Boring Stuff"
